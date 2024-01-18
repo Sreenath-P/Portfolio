@@ -1,0 +1,8 @@
+@tailwind utilities;
+
+*{
+  @apply m-0 box-content
+}
+html,body,#root{
+  @apply h-full w-full
+}
